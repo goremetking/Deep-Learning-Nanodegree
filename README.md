@@ -18,3 +18,7 @@ Implementing a recurrent neural network with LSTM cells and training it on scrip
 ## language-translation
 Contains project 4:
 This time implementing a recurrent neural network using a sequence 2 sequence model and training it on a portion of English/French corpus to demonstrate translating from English to French.
+
+## face-generation
+Contains project 5:
+Using a Generative Adversarial Network to generate faces
