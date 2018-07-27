@@ -1,7 +1,9 @@
 # Deep-Learning-Nanodegree
-Nanodegree course from Udacity
+Nanodegree course from Udacity. A repository to store all projects I worked on for this nanodegree.
 
-Repository to store projects that I have completed from this course.
+Please view the Jupyter Notebook (.ipynb) file for each project, which details the project and contains the trained network.
+
+Neural networks were trained on an NVIDIA GTX 1080ti.
 
 ## first-neural-network 
 ### Project 1:
