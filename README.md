@@ -5,22 +5,17 @@ Please view the Jupyter Notebook (.ipynb) file for each project, which details t
 
 Neural networks were trained on an NVIDIA GTX 1080ti.
 
-## first-neural-network 
-### Project 1:
+## Project 1: first-neural-network 
 Implementing a neural network with Stochastic Gradient Descent and backpropagation. This neural network is then trained on data from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset), to predict bike ridership for a bike sharing system.
 
-## image-classification
-### Project 2:
+## Project 2: image-classification
 Implementing a convolutional neural network using ReLU and dropout on one of the layers.
 
-## tv-script-generation
-### Project 3:
+## Project 3: tv-script-generation
 Implementing a recurrent neural network with LSTM cells and training it on scripts from Moe's Tavern in The Simpsons, and then generates its own script.
 
-## language-translation
-### Project 4:
+## Project 4: language-translation
 Implementing a recurrent neural network using a sequence-2-sequence model and training it on a portion of English/French corpus to demonstrate translating from English to French.
 
-## face-generation
-### Project 5:
+## Project 5: face-generation
 Using a Generative Adversarial Network to generate pictures of faces, employing convolutional neural networks for pictures from the MNIST and CelebA datasets.
